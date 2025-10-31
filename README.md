@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @damlas123. I am second year student in Computer Engineering at Sakarya University
+- 👋 Hi, I’m @damlas123. I am third year student in Computer Engineering at Sakarya University
