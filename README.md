@@ -1,38 +1,39 @@
-- 👋 Hi, I’m @damlas123. I am third year student in Computer Engineering at Sakarya University
 <h1 align="center">Hi there, I'm Damla Söylemez 👋</h1>
-<h3 align="center">Computer Engineering Undergraduate at Sakarya University 💻 | Ex-Erasmus Exchange Student @ Politechnika Krakowska 🇪🇺</h3>
+<h3 align="center">Computer Engineering Undergraduate @ Sakarya University 💻 | Ex-Erasmus Exchange Student @ Politechnika Krakowska 🇪🇺</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=damlas123&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-success?style=flat-square" alt="Status">
+  <a href="https://linkedin.com/in/damla-söylemez-220aa2203"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Status-Cybersecurity%20%26%20Systems-success?style=flat-square" alt="Status">
 </p>
 
 ---
 
 ### 🚀 Hakkımda / About Me
-* 🌱 **Eğitim:** Sakarya Üniversitesi - Bilgisayar Mühendisliği (3. Sınıf)
-* 🇪🇺 **Erasmus Deneyimi:** Politechnika Krakowska (Polonya)
-* 💡 **İlgi Alanlarım:** Siber Güvenlik, Veri Mühendisliği, Bilgisayar Görüşü & Yapay Zeka
-* 🛠️ **Kullandığım Teknolojiler:** Python, C, C#, Java, SQL, Next.js, OpenCV, Git
+* 🌱 Sakarya Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim (GPA: 3.57/4.0)[cite: 5].
+* 🇪🇺 Politechnika Krakowska’da (Polonya) Erasmus ve staj deneyimleri kazandım; ağ güvenliği, sistem yönetimi ve sızma testi alanlarında pratik yaptım[cite: 5, 6].
+* 🎯 Siber Güvenlik, Web Uygulama Güvenliği, Ağ Altyapıları ve Yapay Zeka/Veri Bilimi odaklı projeler geliştiriyorum[cite: 5, 6].
 
 ---
 
-### 🎓 Üniversite Dersleri & Çalışma Havuzu
-Sakarya Üniversitesi ve Erasmus sürecimde aldığım dersleri, kaynakları, lab ödevlerini ve sınav çalışma notlarımı bu yapıda organize ediyorum:
-
-| Dönem / Kategori | Ders Adı & İçerik | İçerik / Depo Linki |
-| :--- | :--- | :--- |
-| **SAÜ - Güz/Bahar** | Sistem Programlama (C, Dosya Yönetimi) | [🔗 Repoya Git](https://github.com/damlas123/Sistem_Programlama) |
-| **SAÜ - Güz/Bahar** | Yapay Zeka / YZ Projeleri (Krimino-AI) | [🔗 Repoya Git](https://github.com/damlas123/Krimino_Ai) |
-| **SAÜ - Temel** | Veri Yapıları & Algoritmalar (C++) | *Notlar ve Kodlar Yakında* |
-| **Erasmus (Politechnika Krakowska)** | Ağ Güvenliği & Donanım/Yazılım Staj Projeleri | [🔗 Projelere Git](https://github.com/damlas123) |
+### 🛠️ Teknik Yetkinlikler / Tech Stack
+* **Siber Güvenlik & Ağ:** Burp Suite, Hydra, Kali Linux, OWASP Top 10, Stormshield & Cisco Firewalls, GNS3, VMware vSphere, ESXi[cite: 6]
+* **DevOps & Otomasyon:** PowerShell, OpenVPN, Octopus Deploy[cite: 6]
+* **Programlama Dilleri:** Python, C, C#, Java, R, SQL, VHDL, Verilog[cite: 5, 6]
+* **Araçlar & Frameworkler:** Next.js, Flask, Prisma, OpenCV, Git, STM32 Firmware[cite: 5, 6]
 
 ---
 
-### 🛠️ Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,cs,java,html,css,js,react,Nextjs,postgres,git,linux,vscode&theme=dark" />
-</p>
+### 🎓 Dersler, Notlar ve Akademik Arşiv
+SAÜ ve Erasmus dönemimde aldığım derslerin özetleri, lab çalışmaları ve sınav kaynakları için ana arşiv reposunu inceleyebilirsiniz:
+* 📂 **[University Archive & Course Notes](https://github.com/damlas123)** *(SAU & Politechnika Krakowska ders içerikleri, kodları ve çalışma notları)*
+
+---
+
+### 🏆 Öne Çıkan Projeler & Stajlar
+* **[Krimino_AI](https://github.com/damlas123/Krimino_Ai):** Yapay zeka dersi için geliştirilen full-stack suç analizi karar destek platformu (Next.js, Flask, Prisma, PostgreSQL).
+* **[Sistem Programlama Arşivi](https://github.com/damlas123/Sistem_Programlama):** C dili ile geliştirilen dosyalama ve sistem programlama projeleri.
+* **TEKNOFEST & Roket Takımı:** Atalay Rocket Team için C# Yer İstasyonu yazılımı ve STM32 gömülü I2C haberleşme protokolleri[cite: 6].
 
 ---
 
