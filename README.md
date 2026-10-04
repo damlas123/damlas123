@@ -28,13 +28,6 @@ SAÜ ve Erasmus dönemimde aldığım derslerin özetleri, lab çalışmaları v
 
 ---
 
-### 🏆 Öne Çıkan Projeler & Stajlar
-* **[Krimino_AI](https://github.com/damlas123/Krimino_Ai):** Yapay zeka dersi için geliştirilen full-stack suç analizi karar destek platformu (Next.js, Flask, Prisma, PostgreSQL).
-* **[Sistem Programlama Arşivi](https://github.com/damlas123/Sistem_Programlama):** C dili ile geliştirilen dosyalama ve sistem programlama projeleri.
-* **TEKNOFEST & Roket Takımı:** Atalay Rocket Team için C# Yer İstasyonu yazılımı ve STM32 gömülü I2C haberleşme protokolleri
-
----
-
 ### 📊 GitHub İstatistiklerim
 <p align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=damlas123&show_icons=true&theme=tokyonight&hide_border=true" />
