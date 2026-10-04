@@ -22,12 +22,6 @@
 
 ---
 
-### 🎓 Dersler, Notlar ve Akademik Arşiv
-SAÜ ve Erasmus dönemimde aldığım derslerin özetleri, lab çalışmaları ve sınav kaynakları için ana arşiv reposunu inceleyebilirsiniz:
-* 📂 **[University Archive & Course Notes](https://github.com/damlas123)** *(SAU & Politechnika Krakowska ders içerikleri, kodları ve çalışma notları)*
-
----
-
 ### 📊 GitHub İstatistiklerim
 <p align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=damlas123&show_icons=true&theme=tokyonight&hide_border=true" />
